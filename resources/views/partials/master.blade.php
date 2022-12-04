@@ -35,82 +35,194 @@
     <section class="description-container">
         <div>
             <div>
-                <h2>long established</h2>
-                <p>It is a long established fact that a reader will be 
-                distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....</p>
+                <h2>A perfect driving school with latest vehicles</h2>
+                <p>
+                    Explain to you how all this mistaken denouncing pleasure and praising pain was born and we will give you a complete account of the system, and expound the actual teachings.
+                    Mistaken denouncing pleasure and praising pain was born and we will give you complete account of the system expound.
+                </p>
             </div>
             <div class="description-left-footer">
-                <p>May 20th 2020</p>
-                <p class="font-weight-bold">Read more</p>
+                <p>Isaac Herman</p>
+                <p class="font-weight-bold">Founder</p>
             </div>
         </div>
-        <img src="{{ asset('images/image 1.png') }}" alt="image">
+        <img src="{{ asset('images/image.png') }}" alt="image">
     </section>
     <section class="contain-container">
         <div class="card">
             <img src="{{ asset('images/card1.png') }}" alt="card1">
             <div class="card-body">
                 <h3>
-                    long estabilished
+                    Standard Driving Course
                 </h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....
+                    Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil pain…
                 </p>
             </div>
             <div class="card-footer">
-                <p>May 20th 2020</p>
-                <p class="font-weight-bold">Read more</p>
+                <p class="font-weight-bold">THEORY SESSIONS</p>
+                <p>04 Hours</p>
+            </div>
+            <div class="card-footer-footer">
+                <p class="font-weight-bold">PRACTICAL SESSION</p>
+                <p>16 Hours</p>
             </div>
         </div>
         <div class="card">
-            <img src="{{ asset('images/card2.png')}}" alt="card2">
+            <img src="{{ asset('images/card3.png')}}" alt="card2">
             <div class="card-body">
                 <h3>
-                    long estabilished
+                    Advanced Driving Course
                 </h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....
+                    Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil pain…
                 </p>
             </div>
             <div class="card-footer">
-                <p>May 20th 2020</p>
-                <p class="font-weight-bold">Read more</p>
+                <p class="font-weight-bold">THEORY SESSIONS</p>
+                <p>04 Hours</p>
+            </div>
+            <div class="card-footer-footer">
+                <p class="font-weight-bold">PRACTICAL SESSION</p>
+                <p>20 Hours</p>
             </div>
         </div>
         <div class="card">
-            <img src="{{ asset('images/card3.png')}}" alt="card3">
+            <img src="{{ asset('images/card2.png')}}" alt="card3">
             <div class="card-body">
                 <h3>
-                    long estabilished
+                    Extended Driving Course
                 </h3>
                 <p>
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....
+                    Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil pain…
                 </p>
             </div>
             <div class="card-footer">
-                <p>May 20th 2020</p>
-                <p class="font-weight-bold">Read more</p>
+                <p class="font-weight-bold">THEORY SESSIONS</p>
+                <p>04 Hours</p>
+            </div>
+            <div class="card-footer-footer">
+                <p class="font-weight-bold">PRACTICAL SESSION</p>
+                <p>24 Hours</p>
             </div>
         </div>
     </section>
     <section class="what-is-container">
         <div>
             <div>
-                <h1>What is Lorem Ipsum?</h1>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution...</p>
-            </div>
-            <div class="footer">
-                <p>May 20</p>
-                <p class="font-weight-bold">Read More</p>
+                <h1>UDrive driving School has been a pioneer in the field of driving training since 2006!..</h1>
+                <p>219 S Bolmar St, West Chester, PA 19382, United States</p>
+                <p>XC65+M2 West Chester, Pennsylvania, USA</p>
+                <p>+16107386902</p>
             </div>
         </div>
-        <img src="{{ asset('images/image2.png')}}" alt="image2">
+        <img src="{{ asset('images/maps1.png')}}" alt="maps1">
     </section>
+
+    <section class="instructors">
+        <div>
+            <div>
+                <h1>Instructors</h1>
+            </div>
+    </section>
+
+    <section class="contain-container-driver">
+        <div class="card-driver">
+            <img src="{{ asset('images/card-panel-left.png') }}" alt="card-panel-left">
+            <div class="card-body">
+                <h3>
+                    Marlo Vlasov 
+                </h3>
+            </div>
+        </div>
+        <div class="card-driver">
+            <img src="{{ asset('images/card-panel-left2.png') }}" alt="card-panel-left2">
+            <div class="card-body">
+                <h3>
+                    Sofia Pozdniakova
+                </h3>
+            </div>
+        </div>
+        <div class="card-driver">
+            <img src="{{ asset('images/card-panel-left3.png') }}" alt="card-panel-left3">
+            <div class="card-body">
+                <h3>
+                    Diana Avsaragova
+                </h3>
+            </div>
+        </div>
+    </section>
+
     <section class="button-container">
         <button class="btn">
             See More
         </button>
     </section>
+
+    <section class="value">
+        <div>
+            <div>
+                <h1>Valuable Packages & Offers</h1>
+            </div>
+    </section>
+
+    <section class="contain-container-value">
+        <div class="card-value">
+            <div class="card-body">
+                <h1>$49.99per course</h1>
+                <h3>Basic Package</h3>
+                <p>Righteous indignation & well dislike</p>
+            </div>
+            <div class="description-value">
+                <p>Theory</p>
+                <p>04 Hours</p>
+                <hr class="solid">
+                <p>Practical</p>
+                <p>16 Lessons</p>
+                <hr class="solid">
+                <p>20 Days</p>
+                <p>1 hr/day</p>
+                <hr class="solid">
+            </div>
+        </div>
+        <div class="card-value">
+            <div class="card-body2">
+                <h1>$124.99per course</h1>
+                <h3>Ultra Package</h3>
+                <p>Righteous indignation & well dislike</p>
+            </div>
+            <div class="description-value">
+                <p>Theory</p>
+                <p>04 Hours</p>
+                <hr class="solid">
+                <p>Practical</p>
+                <p>16 Lessons</p>
+                <hr class="solid">
+                <p>20 Days</p>
+                <p>1 hr/day</p>
+                <hr class="solid">
+            </div>
+        </div>
+        <div class="card-value">
+            <div class="card-body3">
+                <h1>$89.99per course</h1>
+                <h3>Premium Package</h3>
+                <p>Righteous indignation & well dislike</p>
+            </div>
+            <div class="description-value">
+                <p>Theory</p>
+                <p>04 Hours</p>
+                <hr class="solid">
+                <p>Practical</p>
+                <p>16 Lessons</p>
+                <hr class="solid">
+                <p>20 Days</p>
+                <p>1 hr/day</p>
+                <hr class="solid">
+            </div>
+        </div>
+    </section>
+
     <footer>
         <p><b>UDrive 2022</b>copyright all rights reserved</p>
         <div>
